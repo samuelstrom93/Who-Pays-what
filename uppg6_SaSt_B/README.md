@@ -1,4 +1,4 @@
-# Cplusplus-course
+# C++ - course
 
 This program was developed to get more familiar with C++. It includes basic handling of dynamic arrays with pointers, copy constructors, allocatinging and deallocating memory amongst others. 
 
